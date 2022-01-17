@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @pdq21
-- 👀 I’m interested in
-  * IaC/CaC
-  * ML, CD4ML, MLOps
+
+  * Automatisierung, IaC, CaC, GitOps
+  * ML, DL, RL, CD4ML, MLOps
   * Automatic Differentiation
-  * Quantum Comuting, QML
+  * Quantum Computing, QML
 
 <!---
 pdq21/pdq21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
