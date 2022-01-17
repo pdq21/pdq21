@@ -1,5 +1,5 @@
 
-  * Automatisierung, IaC, CaC, GitOps
+  * Automation, IaC, CaC, GitOps
   * ML, DL, RL, CD4ML, MLOps
   * Automatic Differentiation
   * Quantum Computing, QML
